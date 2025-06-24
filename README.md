@@ -17,3 +17,6 @@ A convolutional neural network (CNN)–based classifier that analyzes chest X-ra
 - **Streamlit Web App** for uploading X-rays, viewing predictions & confidence scores, and overlaying Grad-CAM visualizations  
 
 ---
+
+## Dataset
+https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
